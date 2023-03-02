@@ -1,1 +1,5 @@
-# Marketing_Campaign_App
+# Marketing_Campaign_APP
+ 
+StreamLit, Python web app of marketing Campaign.
+
+
